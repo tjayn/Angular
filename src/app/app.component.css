@@ -1,4 +1,4 @@
-.Header{
+.Header, .Heading{
     font-size: 40px;
     justify-content: center;
     align-content: center;
@@ -10,4 +10,3 @@
     align-content: center;
     display: flex;
 }
-
